@@ -5,3 +5,5 @@ I'll be adding the other chapters as I work through them.
 
 If you find any errors or have suggestions use the issues function of
 GitHub and I'll have a look.
+
+I used [the 8051 emulator found here](https://github.com/jarikomppa/emu8051)
